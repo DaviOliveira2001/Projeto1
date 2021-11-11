@@ -7,7 +7,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background-image: url(../img/background\ tecnologia\ 9.jpg);
+    background-image: url(../img/background\ 10.jpg);
     background-size: cover;
     justify-content: center;
 }
@@ -17,7 +17,7 @@ header{
     width: 100%;
     height: 70px;
     background-color: gray;
-    background-image: url(../img/background\ tecnologia\ 8.jpg);
+    background-image: url(../img/Captura\ de\ tela\ 2021-11-11\ 160825.png);
     padding: 10px;
     box-shadow: 0px 5px 20px #000;
     align-items: center;
@@ -49,13 +49,18 @@ h2{
     justify-content: center;
 }
 .menu li a:hover{
-    color: white;
+    color: rgb(0, 0, 0);
     display: block;
     text-decoration: none;
-    background-color: red;
+    background-color: rgb(0, 255, 242);
+    font-size: large;
 }
 .cardapio{
     display: flex;
     justify-content: center;
     margin-top: 20px;
+}
+.menu li a{
+    color: #000;
+    font-size: large;
 }
