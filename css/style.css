@@ -26,7 +26,12 @@ header{
 h1{
     justify-content: center;
     display: flex;
-    color: white;
+    color: yellow;
+}
+.titulo h1{
+    justify-content: center;
+    display: flex;
+    color: yellow;
 }
 .historia h2{
     justify-content: center;
@@ -52,13 +57,13 @@ h1{
     color: rgb(0, 0, 0);
     display: block;
     text-decoration: none;
-    background-color: rgb(0, 255, 242);
+    background-color: rgb(255, 238, 0);
     font-size: large;
 }
 .cardapio{
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .menu li a{
     color: #000;
