@@ -23,11 +23,6 @@ header{
     align-items: center;
     background-size: cover;
 }
-h1{
-    justify-content: center;
-    display: flex;
-    color: yellow;
-}
 .titulo h1{
     justify-content: center;
     display: flex;
