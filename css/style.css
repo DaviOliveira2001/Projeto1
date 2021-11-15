@@ -28,7 +28,7 @@ h1{
     display: flex;
     color: white;
 }
-h2{
+.historia h2{
     justify-content: center;
     display: flex;
     margin-left: 20px;
